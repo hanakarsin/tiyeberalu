@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://beyigaqeho.pages.dev/sitemap.xml
